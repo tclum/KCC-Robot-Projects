@@ -11,3 +11,5 @@ For Coffee selection, you can choose hot or iced coffee. For the hot option, you
 
 I didn't code python to execute my project, but I used preprogrammed of choreograph. In Box categories, the Speech>Creation>Animated Say. This program allows you to put dialog into what you want robots to say, which is a question. Next, I used it under Creation>Speech recognition, and this is where you want to input what word you want the user to say. And the under folder Programming>logic>switch case, which will be the outcome if the user chooses that answer, will lead you to another Animated say to say what you want to indicate as an answer with that selection. All this process is just on repeat to complete this project. On another note, since everyone doesn't have an accent or how they deliver the words. Sometimes Nao won't recognize the user's answer. And with this issue, sometimes you either speak slower, change the intonation of your words, or speak faster. I also encounter that you make sure that you don't have any misspelled words because this will cause your program not to run.
 
+
+Here's a link of the I created. : https://www.youtube.com/watch?v=hreQpa4dhlA
