@@ -6,3 +6,6 @@ To expand upon this project, I would recommend exploring the Timeline functional
 
 Here's a link to some information about Timelines on the Aldebaran Robotics website. It's a good place to get a general idea of what they do: 
 http://doc.aldebaran.com/1-14/software/choregraphe/panels/timeline_panel.html
+
+
+Here is a YouTube link to my project: https://www.youtube.com/watch?v=lUy_yh0ExbA
