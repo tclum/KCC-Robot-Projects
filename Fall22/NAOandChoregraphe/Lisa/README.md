@@ -34,6 +34,7 @@ Note: I read there is a way to program NAO without using Choregraphe at all usin
 I highly recommend going through this [website](https://www.kramirez.net/Robotica/Material/Nao/AnIntroductionToRoboticsWithNao_TextBook_2012_US.pdf)! I wish I found this sooner! 
 
 Even though this help doc is a bit long, it is split into 10 modules that shows you different things you can do with NAO, using the preprogrammed box libraries and using Python. It also goes over the timeline feature in Choregraphe.
+
 ---
 ### Other Helpful Resources 
 1) https://www.youtube.com/watch?v=zmsg1l6d5fc&ab_channel=RobotLABInc.
@@ -52,6 +53,7 @@ Even though this help doc is a bit long, it is split into 10 modules that shows 
 I wanted to explore the movement side of NAO, by trying to create a workout robot. The video of my robot can be found [here.](https://drive.google.com/file/d/1o-UEUa4wZKuBbXlWJKfr-SBzI9l-h0dT/view?usp=sharing)
 
 Basically, I had NAO stand up, raise its arms and walk in different directions. Then, I had NAO move its arms and sit back down. My program was a mixture of using the preprogrammed boxes in Choregraphe and creating my own boxes in Python. The two NAOqi APIS I used were ALMotion and ALTextToSpeech. 
+
 ---
 ### Final Thoughts
 * I would like to emphasize going through this [website!](https://www.kramirez.net/Robotica/Material/Nao/AnIntroductionToRoboticsWithNao_TextBook_2012_US.pdf) I wish I found this sooner because it was very helpful for me. 
