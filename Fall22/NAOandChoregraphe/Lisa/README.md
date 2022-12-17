@@ -23,17 +23,17 @@ If you plan to work on your project at home, this is what you need to download o
 ### How to Use Choregraphe
 **We had a Zoom Choregraphe training that was recorded, so I recommend watching that first on Laulima before getting started!**
 
-There are two ways to program NAO using Choregraphe
+There are two ways to program NAO using Choregraphe:
 
 1) Drag and drop actions from the box libraries on the left into the middle window, creating a flow diagram. This is very similiar to the Scratch program. 
-2) Create your own boxes in Choregraphe and write your code in Python (NAO is supported in other languages like Java and C++ but I highly recommend to use Python since the preprogrammed box libraries are written in Python) 
+2) Create your own boxes in Choregraphe and write your code in Python (NAO is supported in other languages like Java and C++ but I recommend using Python since the preprogrammed box libraries are written in Python) 
 
-Note: I read there is a way to program NAO without using Choregraphe at all using Python (however, I could not get that to work on my computer)  
+Note: I read there is a way to program NAO without using Choregraphe at all using only Python (however, I could not get that to work on my computer)  
 
 ### The Holy Grail Help Document I Wish I Found Sooner!! 
 I highly recommend going through this [website](https://www.kramirez.net/Robotica/Material/Nao/AnIntroductionToRoboticsWithNao_TextBook_2012_US.pdf)! I wish I found this sooner! 
 
-Even though this help doc is a bit long, it is split into 10 modules that shows you different things you can do with NAO using the preprogrammed box libraries and using Python. It also goes over the timeline feature in Choregraphe.
+Even though this help doc is a bit long, it is split into 10 modules that shows you different things you can do with NAO, using the preprogrammed box libraries and using Python. It also goes over the timeline feature in Choregraphe.
 
 ### Other Helpful Resources 
 1) https://www.youtube.com/watch?v=zmsg1l6d5fc&ab_channel=RobotLABInc.
@@ -54,7 +54,7 @@ I wanted to explore the movement side of NAO, by trying to create a workout robo
 Basically, I had NAO stand up, raise its arms and walk in different directions. Then, I had NAO move its arms and sit back down. My program was a mixture of using the preprogrammed boxes in Choregraphe and creating my own boxes in Python. The two NAOqi APIS I used were ALMotion and ALTextToSpeech. 
 
 ### Final Thoughts
-* I would like to emphasize going through this [website](https://www.kramirez.net/Robotica/Material/Nao/AnIntroductionToRoboticsWithNao_TextBook_2012_US.pdf) again! I wish I found this sooner because it was very helpful for me. 
+* I would like to emphasize going through this [website!](https://www.kramirez.net/Robotica/Material/Nao/AnIntroductionToRoboticsWithNao_TextBook_2012_US.pdf) I wish I found this sooner because it was very helpful for me. 
 
 * Start early 😭! There are so many things you can do with NAO so I wish I started earlier & be sure to allow some time to troubleshoot/in case things don't go as plan. 
 
