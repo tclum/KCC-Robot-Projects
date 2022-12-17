@@ -29,6 +29,7 @@ There are two ways to program NAO using Choregraphe:
 2) Create your own boxes in Choregraphe and write your code in Python (NAO is supported in other languages like Java and C++ but I recommend using Python since the preprogrammed box libraries are written in Python) 
 
 Note: I read there is a way to program NAO without using Choregraphe at all using only Python (however, I could not get that to work on my computer)  
+
 ---
 ### The Holy Grail Help Document I Wish I Found Sooner!! 
 I highly recommend going through this [website](https://www.kramirez.net/Robotica/Material/Nao/AnIntroductionToRoboticsWithNao_TextBook_2012_US.pdf)! I wish I found this sooner! 
