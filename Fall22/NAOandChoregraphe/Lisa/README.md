@@ -21,9 +21,29 @@ If you plan to work on your project at home, this is what you need to download o
 * **Robot Settings** (the desktop application that must be install to connect to NAO. Make sure NAO is connected to the same network as your computer)
 
 ### How to Use Choregraphe
-We had a Zoom Choregraphe training that was recorded, so I recommend watching that first before getting started!
+**We had a Zoom Choregraphe training that was recorded, so I recommend watching that first on Laulima before getting started!**
 
 There are two ways to program NAO using Choregraphe
 
-1) Drag and drop actions from the box libraries on the left into the middle window, creating a flow diagram
+1) Drag and drop actions from the box libraries on the left into the middle window, creating a flow diagram. This is very similiar to the Scratch program. 
+2) Create your own boxes in Choregraphe and write your code in Python (NAO is supported in other languages like Java and C++ but I highly recommend to use Python since the preprogrammed box libraries are written in Python) 
 
+Note: I read there is a way to program NAO without using Choregraphe at all using Python (however, I could not get that to work on my computer)  
+
+### The Holy Grail Help Document I Wish I Found Sooner!! 
+I highly recommend going through this [website](https://www.kramirez.net/Robotica/Material/Nao/AnIntroductionToRoboticsWithNao_TextBook_2012_US.pdf)! I wish I found this sooner! 
+
+Even though this help doc is a bit long, it is split into 10 modules that shows you different things you can do with NAO using the preprogrammed box libraries and using Python. It also goes over the timeline feature in Choregraphe.
+
+### Other Helpful Resources 
+1) https://www.youtube.com/watch?v=zmsg1l6d5fc&ab_channel=RobotLABInc.
+
+This video taught me how to create my own boxes on Choregraphe and briefly goes over what the default Python functions mean. It also goes over some basic examples, like how you can change the parameters to make NAO walk in a circle.
+
+2) https://www.youtube.com/watch?v=Djzb8c41qbk&ab_channel=PhilipEnglish
+
+There are three shorter videos on this channel that go over the basics on how to program NAO using Python.
+
+3) http://doc.aldebaran.com/2-5/naoqi/index.html
+
+If you were interested in writing code, NAOqi is the name of the main software that runs on NAO and controls it. This website contains the list of all NAOqi APIs. 
