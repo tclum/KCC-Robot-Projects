@@ -38,12 +38,20 @@ Even though this help doc is a bit long, it is split into 10 modules that shows 
 ### Other Helpful Resources 
 1) https://www.youtube.com/watch?v=zmsg1l6d5fc&ab_channel=RobotLABInc.
 
-This video taught me how to create my own boxes on Choregraphe and briefly goes over what the default Python functions mean. It also goes over some basic examples, like how you can change the parameters to make NAO walk in a circle.
+* This video taught me how to create my own boxes on Choregraphe and briefly goes over what the default Python functions mean. It also goes over some basic examples, like how you can change the parameters to make NAO walk in a circle.
 
 2) https://www.youtube.com/watch?v=Djzb8c41qbk&ab_channel=PhilipEnglish
 
-There are three shorter videos on this channel that go over the basics on how to program NAO using Python.
+* There are three shorter videos on this channel that go over the basics on how to program NAO using Python.
 
 3) http://doc.aldebaran.com/2-5/naoqi/index.html
 
-If you were interested in writing code, NAOqi is the name of the main software that runs on NAO and controls it. This website contains the list of all NAOqi APIs. 
+* If you were interested in writing code, NAOqi is the name of the main software that runs on NAO and controls it. This website contains the list of all NAOqi APIs.
+
+### What I Did
+I wanted to explore the movement side of NAO, by trying to create a workout robot. The video of my robot can be found [here](https://drive.google.com/file/d/1o-UEUa4wZKuBbXlWJKfr-SBzI9l-h0dT/view?usp=sharing)
+
+Basically, I had NAO stand up, raise its arms and walk in different directions. Then, I had NAO move its arms and sit back down. My program was a mixture of using the preprogrammed boxes in Choregraphe and creating my own boxes in Python. The two NAOqi APIS I used were ALMotion and ALTextToSpeech. 
+
+### Final Thoughts
+
