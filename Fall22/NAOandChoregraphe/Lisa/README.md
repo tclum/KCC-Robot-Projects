@@ -49,9 +49,15 @@ Even though this help doc is a bit long, it is split into 10 modules that shows 
 * If you were interested in writing code, NAOqi is the name of the main software that runs on NAO and controls it. This website contains the list of all NAOqi APIs.
 
 ### What I Did
-I wanted to explore the movement side of NAO, by trying to create a workout robot. The video of my robot can be found [here](https://drive.google.com/file/d/1o-UEUa4wZKuBbXlWJKfr-SBzI9l-h0dT/view?usp=sharing)
+I wanted to explore the movement side of NAO, by trying to create a workout robot. The video of my robot can be found [here.](https://drive.google.com/file/d/1o-UEUa4wZKuBbXlWJKfr-SBzI9l-h0dT/view?usp=sharing)
 
 Basically, I had NAO stand up, raise its arms and walk in different directions. Then, I had NAO move its arms and sit back down. My program was a mixture of using the preprogrammed boxes in Choregraphe and creating my own boxes in Python. The two NAOqi APIS I used were ALMotion and ALTextToSpeech. 
 
 ### Final Thoughts
+* I would like to emphasize going through this [website](https://www.kramirez.net/Robotica/Material/Nao/AnIntroductionToRoboticsWithNao_TextBook_2012_US.pdf) again! I wish I found this sooner because it was very helpful for me. 
+
+* Start early 😭! There are so many things you can do with NAO so I wish I started earlier & be sure to allow some time to troubleshoot/in case things don't go as plan. 
+
+* Good luck & have fun!!
+
 
