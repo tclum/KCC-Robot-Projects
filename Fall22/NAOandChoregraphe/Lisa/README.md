@@ -1,4 +1,4 @@
-### Getting started 
+### Getting Started 
 Meet NAO, a humanoid robot, created by Softbank Robotics! 
 
 <img src="https://provenrobotics.ai/wp-content/uploads/2022/06/nao.webp" height="200" width="180" >
@@ -11,12 +11,19 @@ I recommend getting familiar with NAO first before programming it. The Softbank 
 
 * On Youtube, if you search "NAO robot," there are many videos on what people had program NAO to do. These are short videos which shows NAO picking up an item and throwing it in a trashcan, NAO doing Gangnam Style, etc. This [link here](https://funlab.nd.edu/the-nao-base/special-movements/) shows other examples, like NAO doing pushups and various types of dances. Initially, I wasn't sure on what I wanted to program, so doing this helped me a lot!
 
-### What you need to download 
-**Note: If you plan to use the KCC laptop, you can bypass this step! Unfortunately, right now, Choregraphe is not compatible on the newer MACs :pensive:**
+### What you Need to Download 
+**Note: If you plan to use the KCC laptop, you can bypass this step! Unfortunately, right now, Choregraphe is not compatible on the newer MACs :disappointed:**
 
 If you plan to work on your project at home, this is what you need to download on your computer (sorry, I would insert links but because the company is currently doing a restructring as I am writing this, I can't seem to find a working link):
 
 * **Choregraphe** (the desktop application that allows you to program NAO, basically the GUI. Choregraphe also allows you to connect to a virtual robot, so you can work on your project at home & test out your project to an extent) 
 
 * **Robot Settings** (the desktop application that must be install to connect to NAO. Make sure NAO is connected to the same network as your computer)
+
+### How to Use Choregraphe
+We had a Zoom Choregraphe training that was recorded, so I recommend watching that first before getting started!
+
+There are two ways to program NAO using Choregraphe
+
+1) Drag and drop actions from the box libraries on the left into the middle window, creating a flow diagram
 
