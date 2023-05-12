@@ -4,4 +4,4 @@ There are a lot you can do and learn with the NAO robots. Starting off, it's goo
 Seeing what NAO is already capable of is a good starting point to see what you want to explore in your project.
 
 ### My Project
-I was interested in exploring human - robot interactions and seeing how much NAO could recognize human emotions.  This all stemmed 
+I was interested in exploring human - robot interactions and seeing how much NAO could recognize human emotions.  This all stemmed from the "Get Smile" behavior in Choregraphe.  My initial plan 
