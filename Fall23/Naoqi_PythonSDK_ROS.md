@@ -31,10 +31,12 @@ There are two different ways to program on the NAO without Choregraphe
 
   ### Working with PythonSDK
   * At least this is how it works on the Dell
+  * Start up one of the NAOs and get it to tell you it's IP address, you will need it.
+  * Make sure the computer is on the router wifi, not KCC.
   * In the terminal, start python2 by entering `python2`
       - Python is an interpreted language so you can just type commands at the `>>>` prompt when it is running. (You can also run programs from files, but
       that comes later...)
-    - Follow the tutorials starting here: http://doc.aldebaran.com/2-8/dev/python/intro_python.html
+  - Follow the tutorials starting here: http://doc.aldebaran.com/2-8/dev/python/intro_python.html
     - and here: http://doc.aldebaran.com/2-8/dev/python/tutorials.html#python-tutorials
     - and here: http://doc.aldebaran.com/2-8/dev/python/examples.html
 
