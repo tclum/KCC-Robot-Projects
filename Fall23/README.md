@@ -1,6 +1,10 @@
 # KCC-Robot-Projects
 Use md files for writing up projects. (https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
 
+
+**See [here for NAO SDK - ROSS](Naoqi_PythonSDK_ROS.md)**
+
+
 Aldebaran (NAO builders) documentation: http://doc.aldebaran.com/2-8/index.html
 
 Aldebaran SDKs for NAOqi
